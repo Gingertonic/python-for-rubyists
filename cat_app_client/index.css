@@ -1,0 +1,27 @@
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    padding-top: 100px;
+    display: table-cell;
+    vertical-align: middle;
+    font-family: monospace;
+}
+
+#info-banner {
+    width: 100%;
+    background-color: orange;
+    padding: 5px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 2em;
+    margin: 5px 0;
+}
+
+.cat-card {
+    width: 15vw;
+    height: 15vw;
+    margin-right: 5px;
+}
